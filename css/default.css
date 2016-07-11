@@ -6,8 +6,12 @@ body {
   list-style-type: none;
 }
 
+.post {
+  margin-bottom: 24px
+}
+
 .title {
-  font-size: 2.2em;
+  font-size: 1.6em;
   display: block;
   line-height: 1em;
 }
@@ -15,6 +19,11 @@ body {
 .date {
   font-size: .8em;
   color: #AAA;
+}
+
+.teaser {
+  margin: 0px;
+  color: #555;
 }
 
 .footer {
