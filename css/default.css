@@ -69,3 +69,7 @@ a:hover {
   display: flex;
   justify-content: space-between;
 }
+
+.footer-hr {
+  margin-bottom: 3px;
+}
